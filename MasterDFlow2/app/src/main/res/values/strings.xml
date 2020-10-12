@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MasterDFlow2</string>
+    <string name="title_website_list">Websites</string>
+    <string name="title_website_detail">website Detail</string>
+    <string name="canada">Canada</string>
+    <string name="todo">TODO</string>
+</resources>
